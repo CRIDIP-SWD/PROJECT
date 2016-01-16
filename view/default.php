@@ -5,6 +5,7 @@
         <title><?= \App\constante::NOM_SITE; ?></title>
         <link rel="stylesheet" href="<?= $constante->getUrl(array('plugins', 'bootstrap', 'css/'), true, false); ?>bootstrap.css" />
         <link rel="stylesheet" href="<?= $constante->getUrl(array('plugins', 'bootstrap', 'css/'), true, false); ?>bootstrap-theme.css" />
+        <link rel="stylesheet" href="<?= $constante->getUrl(array('plugins', 'flaticon/'), true, false); ?>flaticon.css" />
         <link rel="stylesheet" href="<?= $constante->getUrl(array('css/'), true, false); ?>styles.css" />
     </head>
     <body>
