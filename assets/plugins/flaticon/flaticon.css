@@ -1,0 +1,145 @@
+@font-face {  font-family: "accessibility-and-ux";  src: url("fonts/accessibility-and-ux.eot");  src: url("fonts/accessibility-and-ux.eot#iefix") format("embedded-opentype"), url("fonts/accessibility-and-ux.woff") format("woff"), url("fonts/accessibility-and-ux.ttf") format("truetype"), url("fonts/accessibility-and-ux.svg") format("svg"); font-weight: normal; font-style: normal;  }
+@font-face {  font-family: "buildings-2";  src: url("fonts/buildings-2.eot");  src: url("fonts/buildings-2.eot#iefix") format("embedded-opentype"), url("fonts/buildings-2.woff") format("woff"), url("fonts/buildings-2.ttf") format("truetype"), url("fonts/buildings-2.svg") format("svg"); font-weight: normal; font-style: normal;  }
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+    font-family: flaticon;
+    font-size: 20px;
+    font-style: normal;
+    margin-left: 20px;
+}.flaticon-business191:before {
+     content: "\e000";
+ }
+.flaticon-chat98:before {
+    content: "\e001";
+}
+.flaticon-cloud318:before {
+    content: "\e002";
+}
+.flaticon-commands:before {
+    content: "\e003";
+}
+.flaticon-favourites9:before {
+    content: "\e004";
+}
+.flaticon-message28:before {
+    content: "\e005";
+}
+.flaticon-news27:before {
+    content: "\e006";
+}
+.flaticon-padlock66:before {
+    content: "\e007";
+}
+.flaticon-play116:before {
+    content: "\e008";
+}
+.flaticon-searching46:before {
+    content: "\e009";
+}
+.flaticon-setting3:before {
+    content: "\e00a";
+}
+.flaticon-situation:before {
+    content: "\e00b";
+}
+.flaticon-smartphone33:before {
+    content: "\e00c";
+}
+.flaticon-smartphone34:before {
+    content: "\e00d";
+}
+.flaticon-text157:before {
+    content: "\e00e";
+}
+.flaticon-touch19:before {
+    content: "\e00f";
+}
+.flaticon-touch screen2:before {
+    content: "\e010";
+}
+.flaticon-volume57:before {
+    content: "\e011";
+}
+.flaticon-web40:before {
+    content: "\e012";
+}
+.flaticon-write21:before {
+    content: "\e013";
+}
+.flaticon-big100:before {
+    content: "\e000";
+}
+.flaticon-big101:before {
+    content: "\e001";
+}
+.flaticon-building29:before {
+    content: "\e002";
+}
+.flaticon-building30:before {
+    content: "\e003";
+}
+.flaticon-building31:before {
+    content: "\e004";
+}
+.flaticon-building32:before {
+    content: "\e005";
+}
+.flaticon-building33:before {
+    content: "\e006";
+}
+.flaticon-building34:before {
+    content: "\e007";
+}
+.flaticon-building35:before {
+    content: "\e008";
+}
+.flaticon-building36:before {
+    content: "\e009";
+}
+.flaticon-building37:before {
+    content: "\e00a";
+}
+.flaticon-building38:before {
+    content: "\e00b";
+}
+.flaticon-building39:before {
+    content: "\e00c";
+}
+.flaticon-building40:before {
+    content: "\e00d";
+}
+.flaticon-building41:before {
+    content: "\e00e";
+}
+.flaticon-buildings10:before {
+    content: "\e00f";
+}
+.flaticon-buildings9:before {
+    content: "\e010";
+}
+.flaticon-city21:before {
+    content: "\e011";
+}
+.flaticon-house109:before {
+    content: "\e012";
+}
+.flaticon-house110:before {
+    content: "\e013";
+}
+.flaticon-house111:before {
+    content: "\e014";
+}
+.flaticon-house112:before {
+    content: "\e015";
+}
+.flaticon-modern13:before {
+    content: "\e016";
+}
+.flaticon-stepped:before {
+    content: "\e017";
+}
+.flaticon-urban8:before {
+    content: "\e018";
+}
+
+
