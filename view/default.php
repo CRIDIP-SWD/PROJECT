@@ -8,6 +8,12 @@
         <link rel="stylesheet" href="<?= $constante->getUrl(array('css/'), true, false); ?>styles.css" />
     </head>
     <body>
-        <nav class=""></nav>
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a href="index.php?view=index" class="navbar-brand"><?= \App\constante::NOM_SITE; ?></a>
+                </div>
+            </div>
+        </nav>
     </body>
 </html>
