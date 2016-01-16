@@ -8,4 +8,3 @@ require dirname(__DIR__)."/app/autoloader.php";
 include dirname(__DIR__)."/vendor/autoload.php";
 
 $app = new app();
-
