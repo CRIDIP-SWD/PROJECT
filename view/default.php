@@ -62,10 +62,28 @@
                 <?php if($view === 'dash_projet'): ?>
                 <ul class="nav nav-sidebar">
                     <li>
-                        <i class="flaticon-home153"></i>
-                        <span>TEST</span>
+                        <a href="index.php?view=dash_projet">
+                            <i class="flaticon-home153"></i>
+                            <span>Accueil</span>
+                        </a>
                     </li>
                 </ul>
+                <?php endif; ?>
+                <?php if($view === 'dash_ovh'): ?>
+                    <ul class="nav nav-sidebar">
+                        <li>
+                            <a href="index.php?view=dash_ovh">
+                                <i class="flaticon-home153"></i>
+                                <span>Accueil</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="index.php?view=ovh_web">
+                                <i class="flaticon-web2"></i>
+                                <span>Web</span>
+                            </a>
+                        </li>
+                    </ul>
                 <?php endif; ?>
             </div>
             <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
