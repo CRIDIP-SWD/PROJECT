@@ -62,7 +62,7 @@
                 <?php if($view === 'dash_projet'): ?>
                 <ul class="nav nav-sidebar">
                     <li>
-                        <i class="flaticon-chat98"></i>
+                        <i class="flaticon-home153"></i>
                         <span>TEST</span>
                     </li>
                 </ul>
