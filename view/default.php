@@ -61,7 +61,7 @@
                         </li>
                         <li>
                             <a href="index.php?view=ovh_web">
-                                <i class="flaticon-web2"></i>
+                                <i class="flaticon-web58"></i>
                                 <span>Web</span>
                             </a>
                         </li>
